@@ -1,3 +1,3 @@
 # Host
 
-Just put any assets for hosting purpose
+Just put any assets for hosting purpose.
